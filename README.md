@@ -1,4 +1,4 @@
-<h1 align="left">Hééé salut tu tout le monde c'est Théo222 ! 👋</h1>
+<h1 align="left">Hééé salut tout le monde c'est Théo222 ! 👋</h1>
 
 ###
 
