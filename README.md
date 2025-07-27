@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Je suis développeur Minecraft et de tout 😂<br>Je suis au collège en 5ème 💻🎥<br>Mon but est de me perfectionner dans le language informatique ⌨🖥👨‍💻<br>Je suis propriétaire de Napyo (Groupe de 3 serveurs Minecraft) et je suis youtubeur aux 6960 abonnés. 🎥🎬🖥🔌</p>
+<p align="left">Je suis développeur Minecraft et de tout 😂<br>Je suis au collège en 4ème 💻🎥<br>Mon but est de me perfectionner dans le language informatique ⌨🖥👨‍💻<br>Je suis propriétaire de Napyo (Groupe de 3 serveurs Minecraft) et je suis youtubeur aux 6960 abonnés. 🎥🎬🖥🔌</p>
 
 ###
 
